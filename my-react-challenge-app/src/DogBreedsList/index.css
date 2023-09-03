@@ -1,0 +1,35 @@
+.dog-item {
+  margin-top: 22px;
+  margin-bottom: 22px;
+  margin-right: 26px;
+}
+
+.img-container {
+  position: relative;
+}
+
+.dog-image {
+  width: 220px;
+  height: 220px;
+  border-radius: 4px;
+}
+
+.fav-btn {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  width: 16px;
+  height: 16px;
+  padding-right: 15px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.heart-pic {
+  color: red;
+}
+
+.heart-pic1 {
+  color: white;
+}
